@@ -62,7 +62,7 @@ export default {
         align-items: center;
 
     }
-    .btn-login,.btl-register{
+    .btn-login,.btn-register{
         color: white;
         font-size: 30px;
     }
