@@ -1,5 +1,7 @@
 <template>
-    $END$
+    <div>
+        <h1>毕设项目进度</h1>
+    </div>
 </template>
 
 <script>

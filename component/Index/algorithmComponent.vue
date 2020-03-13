@@ -1,5 +1,7 @@
 <template>
-    $END$
+    <div>
+        <h1>力布局算法</h1>
+    </div>
 </template>
 
 <script>

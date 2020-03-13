@@ -4,6 +4,11 @@
 }
 
 body{
-    background: linear-gradient(90deg,#136a8a,#267871);
     height: 100vh;
+
+}
+
+.mui-icon-arrowdown{
+    color: #323232;
+    font-size: 50px !important;
 }
