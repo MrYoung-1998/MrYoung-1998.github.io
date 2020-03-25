@@ -6,7 +6,7 @@ nav{
 .fd-header{
     position: relative;
     width: 100%;
-    height: 90%;
+    height: 70%;
     background: #323232;
     color: white;
     box-sizing: border-box;
@@ -32,10 +32,3 @@ nav{
     color: white;
 }
 
-.fd-transition{
-    box-sizing: border-box;
-    width: 100%;
-    height: 80px;
-    background: white;
-    padding: 50px 80px;
-}

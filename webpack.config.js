@@ -20,7 +20,7 @@ module.exports = {
                     {loader:'style-loader'},
                     {loader:'css-loader'}
                 ]},
-            {test:/\.(jpg|png|jif|bmp|jpeg|ttf)$/,use:'url-loader'},//处理图片路径的loader
+            {test:/\.(jpg|png|jif|bmp|jpeg|ttf|woff)$/,use:'url-loader'},//处理图片路径的loader
 
             {
                 test: /\.js$/,
